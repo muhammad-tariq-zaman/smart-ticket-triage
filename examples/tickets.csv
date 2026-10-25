@@ -1,0 +1,6 @@
+id,title,description,impact,urgency,created_at
+T1,WiFi down on floor 2,Whole floor wifi offline since morning,high,high,2026-10-25 09:00
+T2,Password reset,User locked out of Outlook account,medium,high,2026-10-25 09:15
+T3,Printer jam,Printer jammed in meeting room,low,low,2026-10-25 09:30
+T4,Laptop running slow,Laptop very slow after update,medium,medium,2026-10-25 10:00
+T5,VPN not connecting,VPN drops every few minutes on remote laptop,high,medium,2026-10-25 10:15
